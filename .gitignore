@@ -18,11 +18,6 @@ Thumbs.db
 # Ignore backup files
 *~
 
-# Ignore compiled binaries
-*.out
-*.o
-*.exe
-
 # Ignore the directory where the script is located if you have a specific directory for logs or files
 /path/to/your/working/directory/*
 

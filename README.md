@@ -119,7 +119,7 @@ This project is licensed under the **MIT License**.
 
 Feel free to **fork**, **star**, and **contribute**! If you have suggestions, open an issue or reach out.
 
-🔗 **GitHub Repo:** [](https://github.com/h8815/auto-password-shell-script.git)
+🔗 **GitHub Repo:** [https://github.com/h8815/auto-password-shell-script.git](https://github.com/h8815/auto-password-shell-script.git)
 
 ---
 

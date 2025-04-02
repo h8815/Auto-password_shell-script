@@ -7,6 +7,7 @@ declare -A user_emails=(
     ["jethalal"]="jethalal81815@gmail.com"
     ["babita"]="babitaji81815@gmail.com"
     ["gulabo"]="gulabo81815@gmail.com"
+    # Add users as per need
 )
 
 # Log file path

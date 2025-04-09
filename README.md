@@ -35,8 +35,8 @@ sudo yum install mailx -y  # For RHEL/CentOS
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/auto-password-reset.git
-cd auto-password-reset
+git clone https://github.com/h8815/Auto-password_shell-script.git 
+cd Auto-password_shell-script
 ```
 
 ### 2️⃣ Modify the User List & Email Domain

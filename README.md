@@ -6,7 +6,7 @@ This Shell Script automatically resets Linux user passwords daily and sends the 
 ---
 
 ## 🔥 Features
-- 🔑 **Generates** strong random 8-character passwords using OpenSSL.
+- 🔑 **Generates** strong random 8-character passwords using `openssl`.
 - 🔄 **Changes and updates** user passwords securely via the `chpasswd` command.
 - 📧 **Sends an email** notification to users with their new password.
 - ⏰ **Automates daily execution** using cron jobs.
@@ -27,6 +27,9 @@ Before running this script, ensure you have:
 ```sh
 sudo apt update && sudo apt install mailutils -y  # For Debian/Ubuntu
 sudo yum install mailx -y  # For RHEL/CentOS
+```
+```sh
+sudo apt install openssl
 ```
 
 ---

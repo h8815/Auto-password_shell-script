@@ -25,7 +25,8 @@ Before running this script, ensure you have:
 
 ### 📌 Install Required Packages:
 ```sh
-sudo apt update && sudo apt install mailutils -y  # For Debian/Ubuntu
+sudo apt update
+sudo apt install mailutils -y  # For Debian/Ubuntu
 sudo yum install mailx -y  # For RHEL/CentOS
 ```
 ```sh
@@ -144,7 +145,6 @@ Feel free to **fork**, **star**, and **contribute**! If you have suggestions, op
 </p>
 
 ---
-### ✨ **Made with ❤️ for Secure DevOps Management**
 
 
 

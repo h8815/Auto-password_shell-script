@@ -145,7 +145,6 @@ Feel free to **fork**, **star**, and **contribute**! If you have suggestions, op
 </p>
 
 ---
-### ✨ **Made with ❤️ for Secure DevOps Management**
 
 
 
